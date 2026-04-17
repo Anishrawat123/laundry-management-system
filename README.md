@@ -131,3 +131,23 @@ npm run dev
 ## ✅ Conclusion
 
 This project demonstrates full-stack development skills and effective use of AI tools to rapidly build and improve a real-world application.
+
+
+
+
+## 📷 Screenshots
+
+### Screenshot-1
+![Create Order](./screenshots/1.png)
+
+### Screenshot-2
+![Orders](./screenshots/2.png)
+
+### Screenshots-3
+![Dashboard](./screenshots/3.png)
+
+### Screenshots-4
+![Filter](./screenshots/4.png)
+
+### Screenshots-5
+![Filter](./screenshots/5.png)

@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# build files
+dist/
+build/
+
+# logs
+logs/
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+
+# optional (mern specific)
+backend/node_modules/
+frontend/node_modules/
+
+# optional (vite)
+frontend/dist/
